@@ -2,7 +2,7 @@
 <h3 align="center">🌱 Exploring all things tech, one project at a time. From coding interactive interfaces to learning the ropes of backend systems, I’m on a journey to find where my passion thrives. Based in Indonesia, I’m here to experiment, collaborate, and grow with each line of code. Let’s connect if you're into building, learning, or creating something new!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenethilang&label=Profile%20views&color=0e75b6&style=flat" alt="kenethilang" /> </p>
-<img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480">
+<p align="middle"> <img src="./asset/code.gif" style="border-radius: 10px;"> </p>
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
