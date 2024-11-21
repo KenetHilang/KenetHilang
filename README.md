@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Kenneth S</h1>
+<h1 align="center">Hi 👋, I'm M. Kenneth S.</h1>
 <h3 align="center">🌱 Exploring all things tech, one project at a time. From coding interactive interfaces to learning the ropes of backend systems, I’m on a journey to find where my passion thrives. Based in Indonesia, I’m here to experiment, collaborate, and grow with each line of code. Let’s connect if you're into building, learning, or creating something new!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenethilang&label=Profile%20views&color=0e75b6&style=flat" alt="kenethilang" /> </p>
