@@ -1,10 +1,10 @@
 <h1 align="center">Hellow, I'm Ken</h1>
-<h3 align="center">Exploring all things tech, one project at a time. From coding interactive interfaces to learning the ropes of backend systems, I’m on a journey to find where my passion thrives. Based in Indonesia, I’m here to experiment, collaborate, and grow with each line of code. Let’s connect if you're into building, learning, or creating something new!</h3>
+<h3 align="center">Exploring all things tech, one project at a time. From coding interactive interfaces to learning the ropes of backend systems, I’m on a journey to find where my passion thrives. I’m here to experiment, collaborate, and grow with each line of code. Look at my portfolio while you're at it <a href="https://kenethilang.me">here</a>!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenethilang&label=Profile%20views&color=0e75b6&style=flat" alt="kenethilang" /> </p>
 <p align="middle"> <img src="./asset/code.gif" style="border-radius: 10px;"> </p>
 
-- I’m currently learning **Java, Kotlin**
+- I’m currently learning **Rust**
 
 - How to reach me **michael.kenneth.salim@gmail.com**
 
