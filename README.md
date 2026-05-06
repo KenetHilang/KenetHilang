@@ -1,8 +1,12 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘𝚠, 𝙸'𝚖 𝙺𝚎𝚗 𝚂 🐎</h1> 
 
+<p align="center">
+<img src="./asset/code.gif" />
+</p>
+
 <h3 align="center">𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚊𝚕𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚎𝚌𝚑, 𝚘𝚗𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎. 𝙵𝚛𝚘𝚖 𝚌𝚘𝚍𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝚛𝚘𝚙𝚎𝚜 𝚘𝚏 𝚏𝚛𝚘𝚗𝚝 𝚎𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝙸’𝚖 𝚘𝚗 𝚊 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚠𝚑𝚎𝚛𝚎 𝚖𝚢 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚝𝚑𝚛𝚒𝚟𝚎𝚜. 𝙸’𝚖 𝚑𝚎𝚛𝚎 𝚝𝚘 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚊𝚗𝚍 𝚐𝚛𝚘𝚠 𝚠𝚒𝚝𝚑 𝚎𝚊𝚌𝚑 𝚕𝚒𝚗𝚎 𝚘𝚏 𝚌𝚘𝚍𝚎. 𝚠𝚑𝚒𝚕𝚎 𝚢𝚘𝚞'𝚛𝚎 𝚊𝚝 𝚒𝚝, 𝚝𝚊𝚔𝚎 𝚊 𝚕𝚘𝚘𝚔 𝚊𝚝 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘  <a href="https://kenethilang.me">ＨＥＲＥ</a>!</h3>
 
-<img src="./asset/code.gif" />
+
 
 <p align="center">
 <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=32698616&theme=dark" />
