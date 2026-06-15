@@ -61,5 +61,5 @@
 &nbsp;
 &nbsp;
 
-[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=KenetHilang&show_icons=true&theme=radical)]&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB5cGRlZjZhazQ5emlseXZiazJ6amhtNmY0ODA2bnFvb2VyYXp1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3K4ALemtRRidyYcfn/giphy.gif" width="190">
+[![Stats](https://github-readme-stats.vercel.app/api?username=KenetHilang&show_icons=true&theme=radical)] &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB5cGRlZjZhazQ5emlseXZiazJ6amhtNmY0ODA2bnFvb2VyYXp1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3K4ALemtRRidyYcfn/giphy.gif" width="190">
 
